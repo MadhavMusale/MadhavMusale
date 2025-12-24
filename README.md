@@ -37,5 +37,6 @@
          alt="javascript" width="40" height="40"/>
   </a>
 </p>
+<p>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteShrine&layout=compact&hide=python,jupyter%20notebook,html,css)</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhavmusale&show_icons=true&locale=en" alt="madhavmusale" /></p>

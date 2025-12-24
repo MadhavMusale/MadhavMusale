@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madhav Musale</h1>
-<h3 align="center">A passionate java developer from India</h3>
-
+<h3 align="center">🎯 Java Developer | Backend Learner </h3>
+<h3 align="center">💡 Core Java | SQL | Spring Boot (Beginner)</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavmusale&label=Profile%20views&color=0e75b6&style=flat" alt="madhavmusale" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@madhav230404" target="blank"><img src="https://img.shields.io/twitter/follow/@madhav230404?logo=twitter&style=for-the-badge" alt="@madhav230404" /></a> </p>
@@ -37,8 +37,5 @@
          alt="javascript" width="40" height="40"/>
   </a>
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhavmusale&show_icons=true&locale=en&layout=compact" alt="madhavmusale" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhavmusale&show_icons=true&locale=en" alt="madhavmusale" /></p>
